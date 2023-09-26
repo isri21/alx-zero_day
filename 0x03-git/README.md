@@ -1,1 +1,2 @@
-This is a read me file for the 0x03-git task.
+This is a README file for the 0x03-git task.
+Updated the README file.
